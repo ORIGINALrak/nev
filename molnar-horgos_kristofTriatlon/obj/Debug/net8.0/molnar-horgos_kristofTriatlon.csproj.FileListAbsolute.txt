@@ -1,0 +1,14 @@
+C:\Users\molnar.kristof\source\repos\molnar-horgos_kristofTriatlon\bin\Debug\net8.0\molnar-horgos_kristofTriatlon.exe
+C:\Users\molnar.kristof\source\repos\molnar-horgos_kristofTriatlon\bin\Debug\net8.0\molnar-horgos_kristofTriatlon.deps.json
+C:\Users\molnar.kristof\source\repos\molnar-horgos_kristofTriatlon\bin\Debug\net8.0\molnar-horgos_kristofTriatlon.runtimeconfig.json
+C:\Users\molnar.kristof\source\repos\molnar-horgos_kristofTriatlon\bin\Debug\net8.0\molnar-horgos_kristofTriatlon.dll
+C:\Users\molnar.kristof\source\repos\molnar-horgos_kristofTriatlon\bin\Debug\net8.0\molnar-horgos_kristofTriatlon.pdb
+C:\Users\molnar.kristof\source\repos\molnar-horgos_kristofTriatlon\obj\Debug\net8.0\molnar-horgos_kristofTriatlon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\molnar.kristof\source\repos\molnar-horgos_kristofTriatlon\obj\Debug\net8.0\molnar-horgos_kristofTriatlon.AssemblyInfoInputs.cache
+C:\Users\molnar.kristof\source\repos\molnar-horgos_kristofTriatlon\obj\Debug\net8.0\molnar-horgos_kristofTriatlon.AssemblyInfo.cs
+C:\Users\molnar.kristof\source\repos\molnar-horgos_kristofTriatlon\obj\Debug\net8.0\molnar-horgos_kristofTriatlon.csproj.CoreCompileInputs.cache
+C:\Users\molnar.kristof\source\repos\molnar-horgos_kristofTriatlon\obj\Debug\net8.0\molnar-horgos_kristofTriatlon.dll
+C:\Users\molnar.kristof\source\repos\molnar-horgos_kristofTriatlon\obj\Debug\net8.0\refint\molnar-horgos_kristofTriatlon.dll
+C:\Users\molnar.kristof\source\repos\molnar-horgos_kristofTriatlon\obj\Debug\net8.0\molnar-horgos_kristofTriatlon.pdb
+C:\Users\molnar.kristof\source\repos\molnar-horgos_kristofTriatlon\obj\Debug\net8.0\molnar-horgos_kristofTriatlon.genruntimeconfig.cache
+C:\Users\molnar.kristof\source\repos\molnar-horgos_kristofTriatlon\obj\Debug\net8.0\ref\molnar-horgos_kristofTriatlon.dll

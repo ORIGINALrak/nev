@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "molnar-horgos_kristofTriatlon/1.0.0": {
+        "runtime": {
+          "molnar-horgos_kristofTriatlon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "molnar-horgos_kristofTriatlon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
